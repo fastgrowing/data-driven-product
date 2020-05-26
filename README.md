@@ -1,7 +1,7 @@
 # never-stop-learning 
 Curated list of the most interesting and useful materials regarding Product Management, Data Analytics and Investments. 
-Hope that those materials would help you to build significant ground for your career or even life. 
- 
+
+I hope that those materials would help you to build significant ground for your career or even life.  
 ## About
 
 Inspired by [Open Product Management List](https://github.com/ProductHired/open-product-management).
